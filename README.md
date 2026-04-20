@@ -5,6 +5,7 @@ Nim : 2300018136
 # Kasir Rumah Makan
 Program ini merupakan sebuah sistem untuk melakukan pemesanan menggunakan aplikasi. Terdiri dari makanan, snack, dan minuman. Selain itu, program ini dapat menghitung jumlah pembelian item dan harga total yang perlu di bayar.
 
+
 Untuk saat ini, sistem baru sampai ke tahap pemilihan menu, dan item.
 List Menu: 
 - Makanan
